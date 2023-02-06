@@ -20,9 +20,9 @@
 		      <th scope="col">Nom</th>
 		      <th scope="col">Prenom</th>
 		      <th scope="col">Matiere</th>
-		      <th scope="col">Matiere</th>
 		      <th scope="col">Note</th>
 		      <th scope="col">Examen</th>
+		      <th scope="col">Semestre</th>
 		    </tr>
 		  	</thead>
 		  	<tbody>

@@ -1,8 +1,8 @@
 @extends('devoir')
 @section('content')
 <div class="row">
-	<div class="col-12 col-md-10">
-		<h3>Ajouter Etudiant</h3>
+	<div class="col-10 col-md-10">
+		<h3>Ajouter un Etudiant</h3>
 	</div>
 	
 </div>
@@ -58,7 +58,7 @@
                     @endforeach
                 </select>
 		  	</div>
-		  	<button type="submit" class="btn btn-success">Submit</button>
+		  	<button  type="submit" class="btn btn-success col-md-4 ml-9">Submit</button>
 		</form>
 	</div>
 </div>
